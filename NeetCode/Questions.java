@@ -6,21 +6,21 @@ public class Questions {
 //*2. Valid Anagram
 //*3. Two Sum
 //?4. Group Anagrams
-//5. Top K Frequent Elements
-//6. Product of Array Except Self
+//TODO 5. Top K Frequent Elements
+//*6. Product of Array Except Self
 //7. Valid Sudoku
 //8. Encode and Decode Strings
 //9. Longest Consecutive Sequence
 
 // Two Pointers (5 problems)
-//1. Valid Palindrome
-//2. Two Sum II
+//TODO 1. Valid Palindrome
+//TODO 2. Two Sum II
 //3. 3Sum
-//4. Container with Most Water
-//5. Trapping Rain Water
+//TODO 4. Container with Most Water
+//TODO 5. Trapping Rain Water
 
 // Sliding Window (6 problems)
-//1. Best Time to Buy & Sell Stock
+//TODO 1. Best Time to Buy & Sell Stock
 //2. Longest Substring Without Repeating Characters
 //3. Longest Repeating Character Replacement
 //4. Permutation in String
@@ -28,17 +28,17 @@ public class Questions {
 //6. Sliding Window Maximum
 
 // Stack (7 problems)
-//1. Valid Parentheses
+//TODO 1. Valid Parentheses
 //2. Min Stack
 //3. Evaluate Reverse Polish Notation
 //4. Generate Parentheses
-//5. Daily Temperatures
+//TODO 5. Daily Temperatures
 //6. Car Fleet
 //7. Largest Rectangle in Histogram
 
 // Binary Search (7 problems)
-//1. Binary Search
-//2. Search a 2D Matrix
+//*1. Binary Search
+//TODO 2. Search a 2D Matrix
 //3. Koko Eating Bananas
 //4. Find Minimum in Rotated Sorted Array
 //5. Search in Rotated Sorted Array
@@ -46,27 +46,27 @@ public class Questions {
 //7. Median of Two Sorted Arrays
 
 // Linked List (11 problems)
-//1. Reverse Linked List
-//2. Merge Two Sorted Lists
+//TODO 1. Reverse Linked List
+//TODO 2. Merge Two Sorted Lists
 //3. Reorder List
-//4. Remove Nth Node From End of List
+//TODO 4. Remove Nth Node From End of List
 //5. Copy List with Random Pointer
-//6. Add Two Numbers
-//7. Linked List Cycle
-//8. Find the Duplicate Number
+//TODO 6. Add Two Numbers
+//TODO 7. Linked List Cycle
+//TODO 8. Find the Duplicate Number
 //9. LRU Cache
 //10. Merge k Sorted Lists
 //11. Reverse Nodes in k-Group
 
 // Trees (15 problems)
-//1. Invert Binary Tree
+//TODO 1. Invert Binary Tree
 //2. Maximum Depth of Binary Tree
 //3. Diameter of Binary Tree
 //4. Balanced Binary Tree
 //5. Same Tree
 //6. Subtree of Another Tree
 //7. Lowest Common Ancestor of a BST
-//8. Binary Tree Level Order Traversal
+//TODO 8. Binary Tree Level Order Traversal
 //9. Binary Tree Right Side View
 //10. Count Good Nodes in Binary Tree
 //11. Validate Binary Search Tree
@@ -152,7 +152,7 @@ public class Questions {
 //11. Regular Expression Matching
 
 // Greedy (8 problems)
-//1. Maximum Subarray
+//TODO 1. Maximum Subarray
 //2. Jump Game
 //3. Jump Game II
 //4. Gas Station
@@ -170,17 +170,17 @@ public class Questions {
 //6. Minimum Interval to Include Each Query
 
 // Math & Geometry (8 problems)
-//1. Rotate Image
+//TODO 1. Rotate Image
 //2. Spiral Matrix
 //3. Set Matrix Zeroes
 //4. Happy Number
-//5. Plus One
+//TODO 5. Plus One
 //6. Pow(x, n)
 //7. Multiply Strings
 //8. Detect Squares
 
 // Bit Manipulation (7 problems)
-//1. Single Number
+//*1. Single Number
 //2. Number of 1 Bits
 //3. Counting Bits
 //4. Reverse Bits
